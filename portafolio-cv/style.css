@@ -437,7 +437,7 @@ progress::-moz-progress-bar {
   padding: 1rem;
   display: inline-block;
   text-transform: uppercase;
-  max-width: var(--max-width);
+  width: 200px;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
