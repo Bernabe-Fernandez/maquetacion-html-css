@@ -328,7 +328,7 @@ progress::-moz-progress-bar {
   position: fixed;
   left: 0;
   bottom: var(--header-height);
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-direction: column;
   opacity: 0;
