@@ -305,12 +305,6 @@ progress::-moz-progress-bar {
   color: var(--hero-text-color);
 }
 
-.hero-btn {
-  width: auto;
-  height: auto;
-  font-size: 2vw;
-}
-
 /** Menu ***/
 
 .menu-btn {
