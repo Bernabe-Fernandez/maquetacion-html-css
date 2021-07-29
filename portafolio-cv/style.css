@@ -328,7 +328,7 @@ progress::-moz-progress-bar {
   position: fixed;
   left: 0;
   bottom: var(--header-height);
-  width: 90%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   opacity: 0;
@@ -437,7 +437,7 @@ progress::-moz-progress-bar {
   padding: 1rem;
   display: inline-block;
   text-transform: uppercase;
-  max-width: 235px;
+  max-width: var(--max-width);
   font-weight: bold;
   text-align: center;
   text-decoration: none;
